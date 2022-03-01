@@ -1,0 +1,4 @@
+- Hi, I’m @jasonlsouza
+- I’m interested in frontend
+- I’m currently learning javascript
+- How to reach me: Email- jason.souza.jas@outlook.com
